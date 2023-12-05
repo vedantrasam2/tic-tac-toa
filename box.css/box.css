@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Changa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@600&display=swap');
+.big{
+    width:fit-content;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+.one{
+    display: flex;
+    flex-direction: row;
+    
+}
+.body{
+
+    background-color: rgb(176, 172, 172);
+   
+}
+
+.box{
+
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    font-size: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.head{
+    font-family: 'Changa', sans-serif;
+    text-align: center;
+    margin-top: -300px;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.x{
+    font-size: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 5px;
+    margin-left: 200px;
+    opacity: 70%;
+}
+.o{
+    font-size: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -530px;
+    margin-right: 200px;
+    float:right;
+    opacity: 70%;
+}
+.maindiv{
+    border: 2px solid black;
+    border-style: dashed;
+    margin: 50px 400px 0px 400px;
+    padding-bottom: 90px;
+    padding-top: 80px;
+    text-align: center;
+}
+.heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-top: 10px;
+
+}
+.play{
+    font-family: 'Merienda', cursive;
+    margin-top: -45px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+.label1 ,.label2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    line-height: 65px;
+}
+.llabel1 ,.llabel2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    line-height: 65px;
+    
+}
+.start{
+    padding: 8px 8px 8px 8px;
+    border: 2px solid black;
+    margin-bottom:-50px ;
+    margin-right: 180px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+.start1{
+    padding: 10px 10px 10px 10px;
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.mindiv{
+border: 2px solid black;
+height: 250px;
+width: 300px;
+padding: 10px 10px 10px 10px;
+display: flex;
+flex-direction: column;
+
+}
+.maindiv2{
+    display: none;
+}
+
+.output1,.output2{
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 150px 5px 5px;
+}
